@@ -1,6 +1,6 @@
 # VeraDemo - Blab-a-Gag
 
-test_change : 12346
+test_change : 123
 
 ### :information_source: Notice
 
